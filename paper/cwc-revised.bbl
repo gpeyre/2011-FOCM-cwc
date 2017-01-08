@@ -1,0 +1,338 @@
+\begin{thebibliography}{10}
+
+\bibitem{Atk}
+F.~V. Atkinson.
+\newblock Wave propagation and the bremmer series.
+\newblock {\em J. Math. Anal. and Appl.}, 1:255, 1960.
+
+\bibitem{templates-eigen}
+Z.~Bai, J.~Demmel, J.~Dongarra, A.~Ruhe, and H.~van~der Vorst.
+\newblock {\em Templates for the Solution of Algebraic Eigenvalue Problems: A
+  Practical Guide}.
+\newblock SIAM, Philadelphia, PA, 2000.
+
+\bibitem{BCL}
+A.~Bamberger, G.~Chavent, and P.~Lailly.
+\newblock Etude math\'ematique et num\'erique d'un probl\`eme inverse pour
+  l'\'equation des ondes \`a une dimension.
+\newblock {\em Rapport IRIA-Laboria no. 226}, 1977.
+
+\bibitem{BCL2}
+A.~Bamberger, G.~Chavent, and P.~Lailly.
+\newblock About the stability of the inverse problem in 1-d wave equations:
+  application to the interpretation of seismic profiles.
+\newblock {\em Applied Math. and Optim.}, 5(1):1--47, 1979.
+
+\bibitem{templates-linsyst}
+R.~Barrett, M.~Berry, T.~F. Chan, J.~Demmel, J.~Donato, J.~Dongarra,
+  V.~Eijkhout, R.~Pozo, C.~Romine, and H.~Van der Vorst.
+\newblock {\em Templates for the Solution of Linear Systems: Building Blocks
+  for Iterative Methods, 2nd Edition}.
+\newblock SIAM, Philadelphia, PA, 1994.
+
+\bibitem{BCR}
+G.~Beylkin, R.~Coifman, and V.~Rokhlin.
+\newblock Fast wavelet transforms and numerical algorithms.
+\newblock {\em Commun. on Pure and Appl. Math.}, 44:141--183, 1991.
+
+\bibitem{blumensath-grad-pursuit}
+T.~Blumensath and M.~E. Davies.
+\newblock Gradient pursuits.
+\newblock {\em IEEE Trans. Signal Proc.}, 56(6):2370--2382, 2008.
+
+\bibitem{boyd-convex-optim}
+S.~Boyd and L.~Vandenberghe.
+\newblock {\em Convex Optimization}.
+\newblock Cambridge University Press, New York, New York, 2004.
+
+\bibitem{Bredies}
+K.~Bredies and D.~A. Lorenz.
+\newblock Iterative soft-thresholding converges linearly.
+\newblock {\em submitted}, 2007.
+
+\bibitem{BubeBurridge}
+K.~Bube and R.~Burridge.
+\newblock The one-dimensional inverse problem of reflection seismology.
+\newblock {\em SIAM Review}, 25(4):497--559, 1983.
+
+\bibitem{CD}
+E.~Cand\`{e}s and L.~Demanet.
+\newblock The curvelet representation of wave propagators is optimally sparse.
+\newblock {\em Commun. on Pure and Appl. Math.}, 58(11):1472--1528, 2005.
+
+\bibitem{FDCT}
+E.~Cand\`{e}s, L.~Demanet, D.~Donoho, and L.~Ying.
+\newblock Fast discrete curvelet transforms.
+\newblock {\em Multiscale Modeling \& Simulation}, 5(3):861--899, 2006.
+
+\bibitem{candes-stable}
+E.~Cand\`{e}s, J.~Romberg, and T.~Tao.
+\newblock Signal recovery from incomplete and inaccurate measurements.
+\newblock {\em Commun. on Pure and Appl. Math.}, 59(8):1207?--1223, 2005.
+
+\bibitem{candes-robust}
+E.~Cand\`{e}s, J.~Romberg, and T.~Tao.
+\newblock Robust uncertainty principles: {E}xact signal reconstruction from
+  highly incomplete frequency information.
+\newblock {\em IEEE Trans. Info. Theory}, 52(2):489--509, 2006.
+
+\bibitem{candes-near-optimal}
+E.~Cand\`{e}s and T.~Tao.
+\newblock Near-optimal signal recovery from random projections: Universal
+  encoding strategies?
+\newblock {\em IEEE Trans. Info. Theory}, 52(12):5406--5425, 2006.
+
+\bibitem{CZ}
+C.~Castro and E.~Zuazua.
+\newblock Concentration and lack of observability of waves in highly
+  heterogeneous media.
+\newblock {\em Arch. Rat. Mech. Anal.}, 164:39--72, 2002.
+
+\bibitem{chambolle-algo-tv}
+A.~Chambolle.
+\newblock An algorithm for total variation minimization and applications.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 20:89--97, 2004.
+
+\bibitem{chen-basis-pursuit}
+S.~S. Chen, D.L. Donoho, and M.A. Saunders.
+\newblock Atomic decomposition by basis pursuit.
+\newblock {\em SIAM Journal on Scientific Computing}, 20(1):33--61, 1998.
+
+\bibitem{CDD}
+A.~Cohen, W.~Dahmen, and R.~DeVore.
+\newblock Adaptive wavelet methods for elliptic operator equations: convergence
+  rates.
+\newblock {\em Math. Comp.}, 70(233):27--75, 2000.
+
+\bibitem{combettes-proximal}
+P.~L. Combettes and V.~R. Wajs.
+\newblock Gsignal recovery by proximal forward-backward splitting.
+\newblock {\em SIAM Journal on Multiscale Modeling and Simulation}, 4(4), 2005.
+
+\bibitem{CLM}
+F.~Conrad, J.~Leblond, and J.P. Marmorat.
+\newblock Boundary control and stabilization of the one-dimensional wave
+  equation.
+\newblock {\em Lecture Notes in control and Inform. Sci.}, 178:142--162, 1992.
+
+\bibitem{daubechies-iterated}
+I.~Daubechies, M.~Defrise, and C.~De Mol.
+\newblock An iterative thresholding algorithm for linear inverse problems with
+  a sparsity constraint.
+\newblock {\em Commun. on Pure and Appl. Math.}, 57:1413--1541, 2004.
+
+\bibitem{DL}
+R.~Dautray and J.L. Lions.
+\newblock {\em Mathematical Analysis and Numerical Methods for Science and
+  Technology}.
+\newblock Springer-Verlag, 1990.
+
+\bibitem{DSC}
+L.~Demanet and L.~Ying.
+\newblock Discrete symbol calculus.
+\newblock {\em SIAM Review}, 53(1):71--104, 2008.
+
+\bibitem{watuwe}
+L.~Demanet and L.~Ying.
+\newblock Wave atoms and time upscaling of wave equations.
+\newblock {\em Numer. Math.}, 113(1):1--71, 2009.
+
+\bibitem{DeV}
+R.~A. DeVore.
+\newblock Nonlinear approximation.
+\newblock {\em Acta Numerica}, 7:51--150, 1998.
+
+\bibitem{DVL}
+R.~A. DeVore and G.~G. Lorentz.
+\newblock {\em Constructive approximation}, volume 303 of {\em Grundlehren der
+  math. Wissenschaften}.
+\newblock Springer, 1993.
+
+\bibitem{donoho-cs}
+D.~Donoho.
+\newblock Compressed sensing.
+\newblock {\em IEEE Trans. Info. Theory}, 52(4):1289--1306, 2006.
+
+\bibitem{donoho-uncertainty}
+D.~L. Donoho and P.~B. Stark.
+\newblock Uncertainty principles and signal recovery.
+\newblock {\em SIAM J. of Appl. Math.}, 49(3):906--931, June 1989.
+
+\bibitem{donoho-homotopy}
+D.~L. Donoho and Y.~Tsaig.
+\newblock Fast solution of $\ell^1$-norm minimization problems when the
+  solution may be sparse.
+\newblock {\em to appear in Journal of Mathematical Imaging and Vision}, 2006.
+
+\bibitem{hale-fixed-point-cont}
+W.~Yin E.~T.~Hale and Y.~Zhang.
+\newblock A fixed-point continuation method for l1-regularized minimization
+  with applications to compressed sensing.
+\newblock {\em CAAM Technical Report TR07-07}, 2008.
+
+\bibitem{efron-lars}
+B.~Efron, T.~Hastie, I.~Johnstone, and T.~Tibshirani.
+\newblock Least angle regression.
+\newblock {\em Annals of Statistics}, 32(2):407--499, 2004.
+
+\bibitem{EOZ}
+B.~Engquist, S.~Osher, and S.~Zhong.
+\newblock Fast wavelet based algorithms for evolution equations.
+\newblock {\em SIAM J. Sci. Comput.}, 15(4):755--775, 1994.
+
+\bibitem{ErlNab}
+Y.~Erlangga and R.~Nabben.
+\newblock Multilevel projection-based nested krylov iteration for boundary
+  value problems, 2008.
+
+\bibitem{figueiredo-nowak-em}
+M.~Figueiredo and R.~Nowak.
+\newblock {An {EM} Algorithm for Wavelet-Based Image Restoration}.
+\newblock {\em IEEE Trans. Image Proc.}, 12(8):906--916, 2003.
+
+\bibitem{figueiredo-grad-projection}
+M.~A.~T. Figueiredo, R.~D. Nowak, and S.~J. Wright.
+\newblock Gradient projection for sparse reconstruction: Application to
+  compressed sensing and other inverse problems.
+\newblock {\em IEEE Journal of Selected Topics in Signal Processing},
+  1(4):586--598, 2007.
+
+\bibitem{BookPapanico}
+J-P. Fouque, J.~Garnier, G.~Papanicolaou, and K.~Solna.
+\newblock {\em Wave Propagation and Time Reversal in Randomly Layered Media},
+  volume~56 of {\em Stochastic Modelling and Applied Probability}.
+\newblock Springer, 2007.
+
+\bibitem{JMS}
+P.~W. Jones, M.~Maggioni, and R.~Schul.
+\newblock Universal local parametrizations via heat kernels and eigenfunctions
+  of the laplacian.
+\newblock {\em Submitted}, 2008.
+
+\bibitem{LS}
+R.M. Lewis and W.W. Symes.
+\newblock On the relation between the velocity coefficient and boundary value
+  for solutions of the one-dimensional wave equation.
+\newblock {\em Inverse Problems}, 7(35):597--631, 1991.
+
+\bibitem{LH}
+T.~Lin and F.~Herrmann.
+\newblock Compressed wavefield extrapolation.
+\newblock {\em Geophysics}, 72(5):77--93, 2007.
+
+\bibitem{Lions}
+J.~L. Lions and E.~Magenes.
+\newblock {\em Non-Homogeneous Boundary Value Problems and Applications}.
+\newblock Stochastic Modelling and Applied Probability. Springer-Verlag, 1972.
+
+\bibitem{Mal3}
+S.~Mallat.
+\newblock {\em A wavelet tour of signal processing, 3rd edition}.
+\newblock Academic Press, San Diego, USA, 2008.
+
+\bibitem{Mey1}
+Y.~Meyer.
+\newblock {\em Wavelets and Operators}.
+\newblock Analysis at Urbana, London Math. Soc. Lecture Notes Series 137.
+  Cambridge University Press, 1989.
+
+\bibitem{needell-cosamp}
+D.~Needell and J.~A. Tropp.
+\newblock Cosamp: Iterative signal recovery from incomplete and inaccurate
+  samples.
+\newblock {\em to appear in Appl. Comp. Harmonic Anal.}, 2008.
+
+\bibitem{nesterov-smooth}
+Y.~Nesterov.
+\newblock Smooth minimization of non-smooth functions.
+\newblock {\em Math. Program.}, 103(1, Ser. A):127--152, 2005.
+
+\bibitem{OZ}
+H.~Owhadi and L.~Zhang.
+\newblock Numerical homogenization of the acoustic wave equations with a
+  continuum of scales, 2008.
+
+\bibitem{Ple}
+R.~E. Plessix.
+\newblock A review of the adjoint-state method for computing the gradient of a
+  functional with geophysical applications.
+\newblock {\em Geophysical Journal International}, 167(9):495--503, 2006.
+
+\bibitem{rudelson-sparse}
+M.~Rudelson and R.Vershynin.
+\newblock On sparse reconstruction from fourier and gaussian measurements.
+\newblock {\em Commun. on Pure and Appl. Math.}, 61(8):1025--1045, 2008.
+
+\bibitem{santosa-sparse-spikes}
+F.~Santosa and W.~W. Symes.
+\newblock Linear inversion of band-limited reflection seismograms.
+\newblock {\em SIAM Journal on Scientific and Statistical Computing},
+  7(4):1307--1330, 1986.
+
+\bibitem{Smith-wave}
+H.~F. Smith.
+\newblock A parametrix construction for wave equations with {$C^{1,1}$}
+  coefficients.
+\newblock {\em Ann. Inst. Fourier (Grenoble)}, 48:797--835, 1998.
+
+\bibitem{Smith-egf}
+H.~F. Smith.
+\newblock Spectral cluster estimates for $c^{1,1}$ metrics.
+\newblock {\em Amer. J. Math.}, 128:1069--1103, 2006.
+
+\bibitem{Sogge-egf}
+C.~D. Sogge.
+\newblock Eigenfunction and bochner-riesz estimates on manifolds with boundary.
+\newblock {\em Math. Research Letters}, 9:205--216, 2002.
+
+\bibitem{starck-mca}
+J.-L. Starck, M.~Elad, and D.L. Donoho.
+\newblock Redundant multiscale transforms and their application for
+  morphological component analysis.
+\newblock {\em Advances in Imaging and Electron Physics}, 132, 2004.
+
+\bibitem{Stolk-thesis}
+C.~C. Stolk.
+\newblock {\em PhD thesis, On the Modeling and Inversion of Seismic Data}.
+\newblock PhD thesis, Utrecht University, 2000.
+
+\bibitem{Sym}
+W.~W. Symes.
+\newblock Transparency of one-dimensional acoustic media of bounded variation.
+\newblock {\em TRIP technical report}, 1985.
+
+\bibitem{Symes-checkpoint}
+W.~W. Symes.
+\newblock Reverse time migration with optimal checkpointing.
+\newblock {\em Geophysics}, 72(5):213--221, 2007.
+
+\bibitem{yin-bregman}
+W.~Yin, S.~Osher, J.~Darbon, and D.~Goldfarb.
+\newblock Bregman iterative algorithms for compressed sensing and related
+  problems.
+\newblock {\em CAAM TR07-13}, 2007.
+
+\bibitem{zhu-primal-dual}
+M.~Zhu and T.~Chan.
+\newblock An efficient primal-dual hybrid gradient algorithm for total
+  variation image restoration.
+\newblock {\em UCLA CAM Report 08-34}, 2007.
+
+\bibitem{Zie}
+W.~Ziemer.
+\newblock {\em Weakly Differentiable Functions}.
+\newblock Graduate texts in Mathematics. Springer-Verlag, 1989.
+
+\bibitem{Zua1}
+E.~Zuazua.
+\newblock Exact controllability for semilinear wave equations in one space
+  dimension.
+\newblock {\em Annales I.H.P. section C}, 10(1):109--129, 1993.
+
+\bibitem{Zua2}
+E.~Zuazua.
+\newblock Propagation, observation, and control of waves approximated by finite
+  difference methods.
+\newblock {\em SIAM Rev.}, 47(2):197--243, 2005.
+
+\end{thebibliography}

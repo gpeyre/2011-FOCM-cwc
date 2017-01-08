@@ -1,0 +1,790 @@
+@string {tsp = "IEEE Trans. Signal Proc."}
+@string {tip = "IEEE Trans. Image Proc."}
+@string {info = "IEEE Trans. Info. Theory"}
+@string {cpam = "Commun. on Pure and Appl. Math."}
+
+%% missing entries
+
+@Article{Bredies,
+  author =	"K.~Bredies and D.~A.~Lorenz",
+  title =	"Iterative Soft-thresholding Converges Linearly",
+  journal =	"submitted",
+  year = 	"2007",
+}
+
+
+
+%% early paper on sparsity 
+
+@Article{donoho-large-sieve,
+  author =	"D. L. Donoho and B. F. Logan",
+  title =	"Signal Recovery and the Large Sieve",
+  journal =	"SIAM Journal on Applied Mathematics",
+  volume =	"52",
+  number =	"2",
+  pages =	"577--591",
+  month =	apr,
+  year = 	"1992",
+}
+
+@Article{donoho-superresolution-sparsity,
+  author =	"D. L. Donoho",
+  title =	"Superresolution Via Sparsity Constraints",
+  journal =	"SIAM Journal on Mathematical Analysis",
+  volume =	"23",
+  number =	"5",
+  pages =	"1309--1331",
+  month =	sep,
+  year = 	"1992",
+}
+@Article{donoho-uncertainty,
+  author =	"D. L. Donoho and P. B. Stark",
+  journal =	"SIAM J. of Appl. Math.",
+  title =	"Uncertainty Principles and Signal Recovery",
+  year = 	"1989",
+  month =	jun,
+  volume =	"49",
+  number =	"3",
+  pages =	"906--931",
+}
+
+@article{santosa-sparse-spikes,
+author = {F. Santosa and W. W. Symes},
+collaboration = {},
+title = {Linear Inversion of Band-Limited Reflection Seismograms},
+publisher = {SIAM},
+year = {1986},
+journal = {SIAM Journal on Scientific and Statistical Computing},
+volume = {7},
+number = {4},
+pages = {1307--1330},
+}
+
+
+@article{clearbout-robust,
+author = {J.F. Clearbout and F. Muir},
+title = {Robust modeling of erratic data},
+year = {1973},
+journal = {Geophyscis},
+volume = {38},
+number = {5},
+pages = {826?-844},
+}
+
+%% numerics
+
+@BOOK{templates-linsyst, 
+    AUTHOR = {R. Barrett and M. Berry and T. F. Chan and J. Demmel and J. Donato and J. Dongarra and V. Eijkhout and R. Pozo and C. Romine and H. Van der Vorst }, 
+    TITLE = {Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods, 2nd Edition}, 
+    PUBLISHER = {SIAM}, 
+    YEAR = {1994}, 
+    ADDRESS = {Philadelphia, PA} 
+}
+
+@BOOK{templates-eigen, 
+    AUTHOR = {Z. Bai and J. Demmel and J. Dongarra and A. Ruhe and H. van der Vorst}, 
+    TITLE = {Templates for the Solution of Algebraic Eigenvalue Problems: A Practical Guide}, 
+    PUBLISHER = {SIAM}, 
+    YEAR = {2000}, 
+    ADDRESS = {Philadelphia, PA} 
+}
+
+%% 3rd edition
+@Book{Mal3,
+  author =	"S. Mallat",
+  title =	"A wavelet tour of signal processing, 3rd edition",
+  year = 	"2008",
+  publisher =	"Academic Press",
+  address =	"San Diego, USA",
+}
+
+@Article{BCR,
+  author =	"G. Beylkin and R. Coifman and V. Rokhlin",
+  title =	"Fast wavelet transforms and numerical algorithms",
+  journal =	cpam,
+  volume =	"44",
+  year = 	"1991",
+  pages =	"141--183",
+}
+
+@article{CD,
+author = {E. Cand\`{e}s and L. Demanet},
+title = {The Curvelet Representation of Wave Propagators is Optimally Sparse},
+journal = cpam,
+year = {2005},
+volume = {58},
+number = {11},
+pages = {1472--1528},
+}
+
+@article{FDCT,
+author = {E. Cand\`{e}s and L. Demanet and D. Donoho and L. Ying},
+title = {Fast Discrete Curvelet Transforms},
+publisher = {SIAM},
+year = {2006},
+journal = {Multiscale Modeling \& Simulation},
+volume = {5},
+number = {3},
+pages = {861--899},
+}
+
+
+
+
+%% Iterative thresholdings
+@ARTICLE{combettes-proximal,
+  author       = {P. L. Combettes and V. R. Wajs},
+  title        = {GSignal recovery by proximal forward-backward splitting},
+  journal      = {SIAM Journal on Multiscale Modeling and Simulation},
+  number = 4,
+  volume = 4,
+  year         = 2005,
+}
+@ARTICLE{daubechies-iterated,
+  author       = {I. Daubechies and M. Defrise and C. De Mol},
+  title        = {An iterative thresholding algorithm for linear inverse problems with a sparsity constraint},
+  year         = 2004,
+  journal      = cpam,
+  volume       = 57,
+  pages        = {1413--1541},
+}
+@article{figueiredo-nowak-em,
+   author={M. Figueiredo and R. Nowak},  
+   title = "{An {EM} Algorithm for Wavelet-Based Image Restoration}", 
+   journal = tip, 
+   volume = "12", 
+   number = "8",
+   pages = "906-916",
+   year = 2003
+}
+
+@ARTICLE{starck-mca,
+  author       = {J.-L. Starck and M. Elad and D.L. Donoho},
+  journal      = {Advances in Imaging and Electron Physics},
+  title        = {Redundant Multiscale Transforms and their Application for Morphological
+                  Component Analysis},
+  volume       = 132,
+  year         = 2004,
+}
+
+%% other algorithms
+
+@Article{mallat-matching-pursuit,
+  author =	"S. G. Mallat and Z. Zhang",
+  title =	"Matching Pursuits with Time-Frequency Dictionaries",
+  journal =	tsp,
+  volume =	"41",
+  year = 	"1993",
+  number =	"12",
+  month =	dec,
+  pages =	"3397--3415",
+}
+
+@Article{efron-lars,
+  title =	"Least angle regression",
+  author =	"B. Efron and T. Hastie and I. Johnstone and T. Tibshirani",
+  journal =	"Annals of Statistics",
+  year = 	"2004",
+  volume =	"32",
+  number =	"2",
+  pages =	"407--499",
+}
+
+@Article{donoho-homotopy,
+  title =	"Fast Solution of $\ell^1$-norm Minimization Problems When the Solution May be Sparse",
+  author =	"D. L. Donoho and Y. Tsaig",
+  journal =	"to appear in Journal of Mathematical Imaging and Vision",
+  year = 	"2006",
+}
+
+@Book{boyd-convex-optim,
+  author =	"S.~Boyd and L.~Vandenberghe",
+  title =	"Convex Optimization",
+  publisher =	"Cambridge University Press",
+  address =	"New York, New York",
+  year = 	"2004",
+}
+%% important sparsity papers
+@article{chen-basis-pursuit,
+author = {S. S. Chen and D.L. Donoho and M.A. Saunders},
+title = {Atomic Decomposition by Basis Pursuit},
+publisher = {SIAM},
+year = {1998},
+journal = {SIAM Journal on Scientific Computing},
+volume = {20},
+number = {1},
+pages = {33--61},
+}
+
+
+%% CS bibliography
+---------- Initial discovery ---------- 
+@ARTICLE{candes-robust,
+  author       = {E. Cand\`{e}s and J. Romberg and T. Tao},
+  title        = {Robust uncertainty principles: {E}xact signal reconstruction from
+                  highly incomplete frequency information},
+  journal      = info,
+  volume = 52,
+  number = 2,
+  pages = "489--509",
+  year         = 2006,
+}
+@ARTICLE{donoho-cs,
+  author       = {D. Donoho},
+  title        = {Compressed sensing},
+  year         = 2006,
+  journal      = info,
+  volume       = 52,
+  number       = 4,
+  pages        = {1289--1306},
+}
+
+---------- UUP theory ---------- 
+
+@Article{candes-near-optimal,
+  title =	"Near-Optimal Signal Recovery From Random Projections:
+		 Universal Encoding Strategies?",
+  author       = {E. Cand\`{e}s and T. Tao},
+  journal =	info,
+  year = 	"2006",
+  number =	"12",
+  volume =	"52",
+  pages =	"5406--5425",
+}
+
+@Article{candes-decoding,
+  title =	"Decoding by linear programming",
+  author       = {E. Cand\`{e}s and T. Tao},
+  journal =	info,
+  year = 	"2005",
+  number =	"12",
+  volume =	"51",
+  pages =	"4203--4215",
+}
+
+@Article{rudelson-sparse,
+  title =	"On sparse reconstruction from Fourier and Gaussian measurements",
+  author       = {M. Rudelson and R.Vershynin},
+  journal =	cpam,
+  volume = 61,
+  number = 8,
+  pages = "1025-1045",
+   year = 	"2008",
+}
+
+@Article{donoho-for-most-exact,
+  title =	"For most large underdetermined systems of linear equations, the minimal $\ell_1$ norm solution is also the sparsest solution",
+  author       = {D. Donoho},
+  journal =	cpam,
+  year = 	"2006",
+  number =	"6",
+  volume =	"59",
+  pages =	"797--829",
+}
+
+
+
+---------- stable CS ---------- 
+
+@ARTICLE{candes-stable,
+  author       = {E. Cand\`{e}s and J. Romberg and T. Tao},
+  title        = {Signal recovery from incomplete and inaccurate measurements},
+  journal      = cpam,
+  year         = 2005,
+    number =	"8",
+  volume =	"59",
+  pages =	"1207?-1223",
+}
+
+@Article{donoho-for-most-approx,
+  title =	"For most large underdetermined systems of linear equations, the minimal $\ell_1$ norm near-solution approximates the sparsest near-solution",
+  author       = {D. Donoho},
+  journal =	cpam,
+  year = 	"2006",
+  number =	"7",
+  volume =	"59",
+  pages =	"797--829",
+}
+
+
+
+
+
+%% Laurent's bibliography
+
+@Article{LH,
+  author =	"T. Lin and F. Herrmann",
+  title =	"Compressed wavefield extrapolation",
+  journal =	"Geophysics",
+  volume =	"72",
+  number =	"5",
+  pages =	"77--93",
+  year = 	"2007",
+}
+
+@Article{DSC,
+  author =	"L. Demanet and L. Ying",
+  title =	"Discrete Symbol Calculus",
+  journal =	"SIAM Review",
+  volume =	"53",
+  number =	"1",
+  pages =	"71--104",
+  year = 	"2008",
+}
+
+@Article{BubeBurridge,
+  author =	"K. Bube and R. Burridge",
+  title =	"The One-Dimensional Inverse Problem of Reflection Seismology",
+  journal =	"SIAM Review",
+  volume =	"25",
+  number =	"4",
+  pages =	"497--559",
+  year = 	"1983",
+}
+
+@Article{Symes-checkpoint,
+  author =	"W. W. Symes",
+  title =	"Reverse time migration with optimal checkpointing",
+  journal =	"Geophysics",
+  volume =	"72",
+  number =	"5",
+  pages =	"213--221",
+  year = 	"2007",
+}
+
+@Article{Smith-wave,
+  author =	"H.~F.~Smith",
+  title =	"A parametrix construction for wave equations with {$C^{1,1}$} coefficients",
+  journal =	"Ann. Inst. Fourier (Grenoble)",
+  volume =	"48",
+  number =	"",
+  pages =	"797--835",
+  year = 	"1998",
+}
+
+@Article{watuwe,
+  author =	"L. Demanet and L. Ying",
+  title =	"Wave atoms and time upscaling of wave equations",
+  journal =	"Numer. Math.",
+  volume =	"113",
+  number =	"1",
+  pages =	"1--71",
+  year = 	"2009",
+}
+
+@Article{EOZ,
+  author =	"B. Engquist and S. Osher and S. Zhong",
+  title =	"Fast wavelet based algorithms for evolution equations",
+  journal =	"SIAM J. Sci. Comput.",
+  volume =	"15",
+  number =	"4",
+  pages =	"755--775",
+  year = 	"1994",
+}
+
+@Book{Mey1,
+  author =	"Y. Meyer",
+  title =	"Wavelets and Operators",
+  series =	"Analysis at Urbana, London Math. Soc. Lecture Notes Series 137",
+  publisher =	"Cambridge University Press",
+  year = 	"1989",
+}
+
+@Article{CDD,
+  author =	"A. Cohen and W. Dahmen and R. DeVore",
+  title =	"Adaptive wavelet methods for elliptic operator equations: convergence rates",
+  journal =	"Math. Comp.",
+  volume =	"70",
+  number =	"233",
+  pages =	"27--75",
+  year = 	"2000",
+}
+
+
+@Article{Atk,
+  author =	"F. V. Atkinson",
+  title =	"Wave propagation and the Bremmer series",   
+  journal  = "J. Math. Anal. and Appl.",
+  volume="1",
+  pages="255",
+  year = 	"1960",
+}
+
+
+@Article{BCL,
+  author =	"A. Bamberger and G. Chavent and P. Lailly",
+  title =	"Etude math\'ematique et num\'erique d'un probl\`eme inverse pour l'\'equation des ondes \`a une dimension",   
+	journal  = "Rapport IRIA-Laboria no. 226",
+  year = 	"1977",
+}
+
+@Article{BCL2,
+  author =	"A. Bamberger and G. Chavent and P. Lailly",
+  title =	"About the stability of the inverse problem in 1-D wave equations: application to the interpretation of seismic profiles ",  
+   journal = "Applied Math. and Optim.",
+  volume =	"5",
+  number="1",
+  pages =	"1--47",
+  year = 	"1979",
+}
+
+@Article{CLM,
+  author =	"F. Conrad and J. Leblond and J.P. Marmorat",
+  title =	"Boundary control and stabilization of the one-dimensional wave equation",   
+  journal = "Lecture Notes in control and Inform. Sci.",
+  publisher =	"Springer",
+  year = 	"1992",
+  volume =	"178",
+  pages =	"142--162",
+}
+
+
+
+ @Article{CZ,
+  author =	"C. Castro and E. Zuazua",
+  title =	"Concentration and lack of observability of waves in highly heterogeneous media",
+  journal =	"Arch. Rat. Mech. Anal.",
+  year = 	"2002",
+  volume =	"164",
+  pages =	"39--72",
+}
+
+
+
+ @Book{DL,
+  author =	"R. Dautray and J.L. Lions",
+  title =	"Mathematical Analysis and Numerical Methods for Science and Technology",
+  publisher =	"Springer-Verlag",
+  year = 	"1990",
+}
+	
+@PHDTHESIS{Demanet-thesis,
+  title =	"PhD thesis, Curvelets, Wave Atoms, and Wave Equations",
+  author =	"L. Demanet",
+school = "California Institute of Technology",
+  year = 	"2006",
+}
+
+@Article{DeV,
+  author =	"R. A. DeVore",
+  title =	"Nonlinear approximation",
+  journal =	"Acta Numerica",
+  year = 	"1998",
+  volume =	"7",
+  pages =	"51--150",
+}
+
+@Book{DVL,
+  author =	"R. A. DeVore and G. G. Lorentz",
+  title =	"Constructive approximation",
+  series =	"Grundlehren der math. Wissenschaften",
+  volume =	"303",
+  publisher =	"Springer",
+  year = 	"1993",
+}
+
+
+@PHDTHESIS{Erl,
+  title =	"PhD thesis, A robust and efficient iterative method for the numerical solution of the Helmholtz equation",
+  author =	"Y. Erlangga",
+school = "Delft University",
+  year = 	"2005",
+}
+
+
+@Misc{ErlNab,
+  author =	"Y. Erlangga and R. Nabben",
+  title =	"Multilevel Projection-Based Nested Krylov Iteration for Boundary Value Problems",
+ journal =	"SIAM J. Sci. Comput.",
+  volume =	"30",
+  number="3",
+  pages =	"1572--1595",
+  year="2008"
+}
+
+
+@Book{BookPapanico,
+  author =	"J-P. Fouque and J. Garnier and G. Papanicolaou and K. Solna",
+  title =	"Wave Propagation and Time Reversal in Randomly Layered Media",
+  series =	"Stochastic Modelling and Applied Probability",
+  volume =	"56",
+  publisher =	"Springer",
+  year = 	"2007",
+}
+
+@article {JMS,
+	author = "P.~W.~Jones and M.~Maggioni and R.~Schul",
+	title = "Universal local parametrizations via heat kernels and eigenfunctions of the laplacian",
+	journal = "Submitted",
+	year = "2008",
+}
+
+@article {LS,
+	author = "R.M. Lewis and W.W. Symes",
+	title = "On the relation between the velocity coefficient and boundary value for solutions of the one-dimensional wave equation",
+	journal = "Inverse Problems",
+	volume = "7",
+	number="35",
+	year = "1991",
+	pages = "597--631",
+}
+
+
+@Book{Lions,
+  author =	"J. L. Lions and E. Magenes",
+  title =	"Non-Homogeneous Boundary Value Problems and Applications",
+  series =	"Stochastic Modelling and Applied Probability",
+  publisher =	"Springer-Verlag",
+  year = 	"1972",
+}
+
+@Misc{OZ,
+  title =	"Numerical Homogenization of the Acoustic Wave Equations with a Continuum of Scales",
+  author =	"H. Owhadi and L. Zhang",
+  journal = "Computer Methods in Applied Mechanics and Engineering",
+  volume = "198",
+  number = "3-4",
+	pages = "397--406",
+  year = 	"2008",
+}
+
+
+
+@article{Ple,
+	author = "R.~E.~Plessix",
+	title = "A review of the adjoint-state method for computing the gradient of a functional with geophysical applications",
+	journal = "Geophysical Journal International",
+	volume = "167",
+	number = "9",
+	year = "2006",
+	pages = "495--503",
+}
+
+@article{Sogge-egf,
+	author = "C.~D.~Sogge",
+	title = "Eigenfunction and Bochner-Riesz estimates on manifolds with boundary",
+	journal = "Math. Research Letters",
+	volume = "9",
+	year = "2002",
+	pages = "205--216",
+}	
+
+
+@article{Smith-egf,
+	author = "H.~F.~Smith",
+	title = "Spectral cluster estimates for $C^{1,1}$ metrics",
+	journal = "Amer. J. Math.",
+	volume = "128",
+	year = "2006",
+	pages = "1069--1103",
+}	
+
+@PHDTHESIS{Stolk-thesis,
+  title =	"PhD thesis, On the Modeling and Inversion of Seismic Data",
+  author =	"C. C. Stolk",
+school = "Utrecht University",
+  year = 	"2000",
+}
+
+
+
+
+@article{Sym,
+ author = {W.~W.~Symes},
+ title = {Transparency of one-dimensional acoustic media of bounded variation},
+ journal = {TRIP technical report},
+ year = {1985},
+}
+
+
+@Book{Zie,
+  author =	"W. Ziemer",
+  title =	"Weakly Differentiable Functions",
+  series =	"Graduate texts in Mathematics",
+  publisher =	"Springer-Verlag",
+  year = 	"1989",
+}
+
+
+@article{Zua1,
+ author = {E. Zuazua},
+ title = {Exact controllability for semilinear wave equations in one space dimension},
+ journal = {Annales I.H.P. section C},
+ volume = {10},
+ number = {1},
+ year = {1993},
+ pages = {109--129},
+}
+
+@article{Zua2,
+ author = {E. Zuazua},
+ title = {Propagation, Observation, and Control of Waves Approximated by Finite  Difference Methods},
+ journal = {SIAM Rev.},
+ volume = {47},
+ number = {2},
+ year = {2005},
+ pages = {197--243},
+ }
+
+
+@ARTICLE{chambolle-algo-tv,
+AUTHOR = "A. Chambolle",
+TITLE = "An algorithm for total variation minimization and applications",
+JOURNAL = "Journal of Mathematical Imaging and Vision",
+VOLUME = "20",
+PAGES = "89--97",
+YEAR = 2004
+}
+
+%% Other algorithms
+
+
+@article{goldstein-bregman,
+  title =	"The split Bregman algorithm for {L1} Regularized problems",
+  author =	"T. Goldstein and S. Osher",
+  year = 	"2008",
+	journal = "UCLA CAM Report 08-29"
+}
+	
+@article{hale-fixed-point-cont,
+  title =	"A Fixed-Point Continuation Method for l1-Regularized Minimization with Applications to Compressed Sensing",
+  author =	"E. T. Hale, W. Yin and Y. Zhang",
+  year = 	"2008",
+	journal = "CAAM Technical Report TR07-07"
+}	
+@Article{kim-l1-ls,
+  title =	"A Method for Large-Scale l1-Regularized Least Squares",
+  author =	"S.-J. Kim and K. Koh and M. Lustig and S. Boyd and D. Gorinevsky",
+  journal =	"IEEE Journal on Selected Topics in Signal Processing",
+  year = 	"2007",
+  number =	"4",
+  volume =	"1",
+  pages =	"606--617",
+}
+	
+@Article{chan-prima-dual-tv,
+  author =	"T. F. Chan and G. H. Golub and P. Mulet",
+  title =	"A Nonlinear Primal-Dual Method for Total
+		 Variation-Based Image Restoration",
+  journal =	"SIAM Journal on Scientific Computing",
+  volume =	"20",
+  number =	"6",
+  pages =	"1964--1977",
+  month =	nov,
+  year = 	"1999",
+}
+	
+@Article{figueiredo-grad-projection,
+  author =	"M. A. T. Figueiredo and R. D. Nowak and S. J. Wright",
+  title =	"Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems",
+  journal =	"IEEE Journal of Selected Topics in Signal Processing",
+  volume =	"1",
+  number =	"4",
+  pages =	"586--598",
+  year = 	"2007",
+}
+
+@Article{blumensath-grad-pursuit,
+  author =	"T. Blumensath and M. E. Davies",
+  title =	"Gradient pursuits",
+  journal =	tsp,
+  volume =	"56",
+  number =	"6",
+  pages =	"2370--2382",
+  year = 	"2008",
+}
+@Article{bioucas-twist,
+  author =	"J. M. Bioucas Dias and M. A. T. Figueiredo",
+  title =	"A New Tw{IST}: Two-Step Iterative
+		 Shrinkage/Thresholding Algorithms for Image
+		 Restoration",
+  journal =	tip,
+  volume =	"16",
+  year = 	"2007",
+  number =	"12",
+  month =	dec,
+  pages =	"2992--3004",
+}
+
+@techreport{berg-sgpl1,
+  Author = {E. {van den} Berg and M. P. Friedlander},
+  Institution = {Department of Computer Science},
+  Number = {TR-2008-01},
+  Title = {Probing the Pareto frontier for basis pursuit solutions},
+  Type = {Tech. Rep.},
+  Month = {January},
+  Year = 2008,
+  Note = {To appear in {\it SIAM J. Sci. Comp.}}
+ }
+@article{yin-bregman,
+  title =	"Bregman Iterative Algorithms for Compressed Sensing and Related Problems",
+  author =	"W. Yin and S. Osher and J. Darbon and D. Goldfarb",
+  year = 	"2007",
+	journal = "CAAM TR07-13"
+}
+
+
+@Article{gorodnitsky-focuss,
+  author =	"I. F. Gorodnitsky and B. D. Rao",
+  title =	"Sparse signal reconstruction from limited data using
+		 {FOCUSS}: a re-weighted minimum norm algorithm",
+  journal =	tip,
+  year = 	"1997",
+  volume =	"45",
+  number =	"3",
+  pages =	"600--616",
+  month =	mar,
+}
+
+@article{candes-reweighted-l1,
+  title =	"Enhancing Sparsity by Reweighted {L1} Minimization",
+  author =	"E. J. Candes and M. B. Wakin and S. P.
+		 Boyd",
+  year = 	"2007",
+	journal = "To appear in J. Fourier Anal. Appl."
+}
+
+@article{zhu-primal-dual,
+  title =	"An Efficient Primal-Dual Hybrid Gradient Algorithm For Total Variation Image Restoration",
+  author =	"M. Zhu and T. Chan",
+  year = 	"2007",
+	journal = "UCLA CAM Report 08-34"
+}
+	
+
+@Article{nesterov-gradient,
+  author =	"Y. Nesterov",
+  title =	"Gradient methods for minimizing composite objective function",
+  journal =	"Preprint UCL",
+  year = 	"2007",
+}
+@Article{nesterov-smooth,
+  author =	"Y. Nesterov",
+  title =	"Smooth minimization of non-smooth functions",
+  journal =	"Math. Program.",
+  volume =	"103",
+  year = 	"2005",
+  number =	"1, Ser. A",
+  pages =	"127--152",
+}
+
+
+
+%---------------------------------
+% recovery with OMP
+
+@Article{needell-cosamp,
+  title =	"CoSaMP: Iterative signal recovery from incomplete and inaccurate samples",
+  author =	"D. Needell and J. A. Tropp",
+  journal =	"to appear in Appl. Comp. Harmonic Anal.",
+  year = 	"2008",
+}
+
+@Article{needell-romp,
+  title =	"Signal Recovery from Inaccurate and Incomplete Measurements via Regularized Orthogonal Matching Pursuit",
+  author =	"D. Needell and R. Vershynin",
+  journal =	"to appear in Appl. Comp. Harmonic Anal.",
+  year = 	"2008",
+}
+
+

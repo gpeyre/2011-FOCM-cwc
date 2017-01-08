@@ -1,0 +1,1111 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.19)  8 JAN 2017 11:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**cwc-revised.tex
+(./cwc-revised.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks27
+\float@box=\box28
+\@float@everytoks=\toks28
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2016/02/27 v1.2a Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldlasy=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
+) (./gpeyre.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks29
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen116
+\TX@old@table=\dimen117
+\TX@old@col=\dimen118
+\TX@target=\dimen119
+\TX@delta=\dimen120
+\TX@cols=\count101
+\TX@ftn=\toks30
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\c@definition=\count102
+\c@claim=\count103
+\c@conjecture=\count104
+\c@theorem=\count105
+\c@lemma=\count106
+\c@algorithm=\count107
+\c@remark=\count108
+\c@remarks=\count109
+\c@example=\count110
+\@float@every@listing=\toks31
+\c@listing=\count111
+\restsubwidth=\skip51
+\restsubheight=\skip52
+\restsubmoreheight=\skip53
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen121
+\epsfysize=\dimen122
+)
+(./cwc-revised.aux)
+\openout1 = `cwc-revised.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen123
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen124
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks33
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 67.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 67.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 67.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 67.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 77.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 77.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 168.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 168.
+ [3]
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 193.
+ [4]
+Overfull \hbox (5.16916pt too wide) in paragraph at lines 227--228
+[]\OT1/cmr/m/n/10.95 Contrast this be-hav-ior of the $\OML/cmm/m/it/10.95 `[]$ 
+\OT1/cmr/m/n/10.95 prob-lem by con-sid-er-ing in-stead an $\OML/cmm/m/it/10.95 
+`[]$ \OT1/cmr/m/n/10.95 reg-u-lar-iza-tion; by Plancherel
+ []
+
+[5] [6]
+Overfull \hbox (1.79454pt too wide) in paragraph at lines 293--295
+\OT1/cmr/m/n/10.95 par-i-son with the def-i-ni-tion (10[]) of in-co-her-ence sh
+ows that the lead-ing fac-tor $[] []([]([] \OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/
+10.95 ))$
+ []
+
+[7]
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+ [8] [9] [10]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 439.
+ [11] [12] [13]
+Overfull \hbox (22.91336pt too wide) in paragraph at lines 568--570
+\OT1/cmr/m/n/10.95 At the dis-crete level, ap-prox-i-mat-ing the in-te-gral $[]
+ \OML/cmm/m/it/10.95 ^^[[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x\OT1/cmr/m/n
+/10.95 )\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 v[]\OT1/cmr/m/n/10.95 (\OML/cm
+m/m/it/10.95 x\OT1/cmr/m/n/10.95 )\OMS/cmsy/m/n/10.95 j[] \OML/cmm/m/it/10.95 d
+x$ \OT1/cmr/m/n/10.95 by the sum $[] [][] \OML/cmm/m/it/10.95 ^^[\OT1/cmr/m/n/1
+0.95 [\OML/cmm/m/it/10.95 j\OT1/cmr/m/n/10.95 ][]\OMS/cmsy/m/n/10.95 j\OML/cmm/
+m/it/10.95 v[]\OT1/cmr/m/n/10.95 [\OML/cmm/m/it/10.95 j\OT1/cmr/m/n/10.95 ]\OMS
+/cmsy/m/n/10.95 j[]$
+ []
+
+[14] [15] [16]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 708.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 708.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 730.
+
+
+[17] [18]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 800.
+
+
+[19]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 846.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 846.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 846.
+
+
+[20]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 896.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 897.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 898.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 899.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 900.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 901.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 903.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 903.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 903.
+
+
+[21]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 905.
+
+
+
+Overfull \hbox (0.12088pt too wide) detected at line 920
+[] [] \OT1/cmr/m/n/10.95 ([] []) \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 R[]\O
+MS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 ([] []) \OMS/cmsy/m/n/10.95 j\OML/cmm/m/
+it/10.95 R[]\OMS/cmsy/m/n/10.95 j \OT1/cmr/m/n/10.95 ([] []) \U/msa/m/n/10.95 6
+ [] \OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 R[]\OMS/cmsy/m/n/10.95 j  ^^A  [] 
+j\OML/cmm/m/it/10.95 R[]\OMS/cmsy/m/n/10.95 j\OT1/cmr/m/n/10.95 ;
+ []
+
+[22]
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 959.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 960.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 961.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 962.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 963.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 964.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 966.
+
+
+[23] [24] [25] [26] [27] [28] [29]
+Package epstopdf Info: Source file: <./images/sin-error/sin-cpxity10-error-log.
+eps>
+(epstopdf)                    date: 2011-02-21 23:02:33
+(epstopdf)                    size: 369242 bytes
+(epstopdf)             Output file: <./images/sin-error/sin-cpxity10-error-log-
+eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/sin-error/sin-cpx
+ity10-error-log-eps-converted-to.pdf ./images/sin-error/sin-cpxity10-error-log.
+eps>
+(epstopdf)             \includegraphics on input line 1404.
+runsystem(repstopdf --outfile=./images/sin-error/sin-cpxity10-error-log-eps-con
+verted-to.pdf ./images/sin-error/sin-cpxity10-error-log.eps)...executed safely 
+(allowed).
+
+Package epstopdf Info: Result file: <./images/sin-error/sin-cpxity10-error-log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:55
+(epstopdf)                    size: 40317 bytes.
+
+<./images/sin-error/sin-cpxity10-error-log-eps-converted-to.pdf, id=123, 560.09
+25pt x 451.6875pt>
+File: ./images/sin-error/sin-cpxity10-error-log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./images/sin-error/sin-cpxity10-error-log-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/sin-error/sin-cpxity10-error-log-eps-converte
+d-to.pdf used on input line 1404.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/sin-error/sin-cpxity20-error-log.
+eps>
+(epstopdf)                    date: 2011-02-21 22:34:02
+(epstopdf)                    size: 374424 bytes
+(epstopdf)             Output file: <./images/sin-error/sin-cpxity20-error-log-
+eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/sin-error/sin-cpx
+ity20-error-log-eps-converted-to.pdf ./images/sin-error/sin-cpxity20-error-log.
+eps>
+(epstopdf)             \includegraphics on input line 1404.
+runsystem(repstopdf --outfile=./images/sin-error/sin-cpxity20-error-log-eps-con
+verted-to.pdf ./images/sin-error/sin-cpxity20-error-log.eps)...executed safely 
+(allowed).
+
+Package epstopdf Info: Result file: <./images/sin-error/sin-cpxity20-error-log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:56
+(epstopdf)                    size: 41126 bytes.
+
+<./images/sin-error/sin-cpxity20-error-log-eps-converted-to.pdf, id=124, 560.09
+25pt x 451.6875pt>
+File: ./images/sin-error/sin-cpxity20-error-log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./images/sin-error/sin-cpxity20-error-log-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/sin-error/sin-cpxity20-error-log-eps-converte
+d-to.pdf used on input line 1404.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/sin-error/sin-cpxity40-error-log.
+eps>
+(epstopdf)                    date: 2011-02-21 22:34:36
+(epstopdf)                    size: 373149 bytes
+(epstopdf)             Output file: <./images/sin-error/sin-cpxity40-error-log-
+eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/sin-error/sin-cpx
+ity40-error-log-eps-converted-to.pdf ./images/sin-error/sin-cpxity40-error-log.
+eps>
+(epstopdf)             \includegraphics on input line 1404.
+runsystem(repstopdf --outfile=./images/sin-error/sin-cpxity40-error-log-eps-con
+verted-to.pdf ./images/sin-error/sin-cpxity40-error-log.eps)...executed safely 
+(allowed).
+
+Package epstopdf Info: Result file: <./images/sin-error/sin-cpxity40-error-log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:56
+(epstopdf)                    size: 40241 bytes.
+
+<./images/sin-error/sin-cpxity40-error-log-eps-converted-to.pdf, id=125, 560.09
+25pt x 451.6875pt>
+File: ./images/sin-error/sin-cpxity40-error-log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use ./images/sin-error/sin-cpxity40-error-log-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/sin-error/sin-cpxity40-error-log-eps-converte
+d-to.pdf used on input line 1404.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/sin-error/sin-all-error.eps>
+(epstopdf)                    date: 2011-02-21 22:59:48
+(epstopdf)                    size: 717289 bytes
+(epstopdf)             Output file: <./images/sin-error/sin-all-error-eps-conve
+rted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/sin-error/sin-all
+-error-eps-converted-to.pdf ./images/sin-error/sin-all-error.eps>
+(epstopdf)             \includegraphics on input line 1404.
+runsystem(repstopdf --outfile=./images/sin-error/sin-all-error-eps-converted-to
+.pdf ./images/sin-error/sin-all-error.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/sin-error/sin-all-error-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:57
+(epstopdf)                    size: 31248 bytes.
+
+<./images/sin-error/sin-all-error-eps-converted-to.pdf, id=126, 560.0925pt x 45
+1.6875pt>
+File: ./images/sin-error/sin-all-error-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./images/sin-error/sin-all-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/sin-error/sin-all-error-eps-converted-to.pdf 
+used on input line 1404.
+(pdftex.def)             Requested size: 187.78531pt x 151.44202pt.
+
+Overfull \hbox (4.46455pt too wide) in paragraph at lines 1404--1404
+ [] 
+ []
+
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-speed.eps>
+(epstopdf)                    date: 2011-02-21 22:56:38
+(epstopdf)                    size: 718887 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-speed-eps-conve
+rted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-speed-eps-converted-to.pdf ./images/bv-steps/bv-steps-speed.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-speed-eps-converted-to
+.pdf ./images/bv-steps/bv-steps-speed.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-speed-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:57
+(epstopdf)                    size: 16520 bytes.
+
+<./images/bv-steps/bv-steps-speed-eps-converted-to.pdf, id=127, 510.90875pt x 4
+01.5pt>
+File: ./images/bv-steps/bv-steps-speed-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./images/bv-steps/bv-steps-speed-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-speed-eps-converted-to.pdf 
+used on input line 1447.
+(pdftex.def)             Requested size: 154.9261pt x 121.74359pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-error-log.eps>
+(epstopdf)                    date: 2011-02-21 22:57:36
+(epstopdf)                    size: 764954 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-error-log-eps-c
+onverted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-error-log-eps-converted-to.pdf ./images/bv-steps/bv-steps-error-log.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-error-log-eps-converte
+d-to.pdf ./images/bv-steps/bv-steps-error-log.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-error-log-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:58
+(epstopdf)                    size: 38696 bytes.
+
+<./images/bv-steps/bv-steps-error-log-eps-converted-to.pdf, id=128, 560.0925pt 
+x 451.6875pt>
+File: ./images/bv-steps/bv-steps-error-log-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use ./images/bv-steps/bv-steps-error-log-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-error-log-eps-converted-to.
+pdf used on input line 1447.
+(pdftex.def)             Requested size: 178.40106pt x 143.8744pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-2.eps>
+(epstopdf)                    date: 2011-02-21 22:54:54
+(epstopdf)                    size: 281939 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-2-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-true-2-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough
+4-contrast30-true-2.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-true
+-2-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-true-2.eps
+)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-2-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:58
+(epstopdf)                    size: 14519 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-true-2-eps-converted-to.pdf, id=1
+29, 523.9575pt x 397.485pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-true-2-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-true-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-true-2-ep
+s-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 106.84323pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-3.eps>
+(epstopdf)                    date: 2011-02-21 22:54:40
+(epstopdf)                    size: 281998 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-3-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-true-3-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough
+4-contrast30-true-3.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-true
+-3-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-true-3.eps
+)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:59
+(epstopdf)                    size: 14678 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-true-3-eps-converted-to.pdf, id=1
+30, 523.9575pt x 397.485pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-true-3-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-true-3-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-true-3-ep
+s-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 106.84323pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-4.eps>
+(epstopdf)                    date: 2011-02-21 22:54:27
+(epstopdf)                    size: 282923 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-4-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-true-4-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough
+4-contrast30-true-4.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-true
+-4-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-true-4.eps
+)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-true-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:59
+(epstopdf)                    size: 15566 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-true-4-eps-converted-to.pdf, id=1
+31, 523.9575pt x 396.48125pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-true-4-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-true-4-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-true-4-ep
+s-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 106.57343pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-2.eps>
+(epstopdf)                    date: 2011-02-21 22:52:08
+(epstopdf)                    size: 284912 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-2-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-sub20-2-eps-converted-to.pdf ./images/bv-steps/bv-steps-roug
+h4-contrast30-sub20-2.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-sub2
+0-2-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-sub20-2.e
+ps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-2-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:17:59
+(epstopdf)                    size: 20288 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-sub20-2-eps-converted-to.pdf, id=
+132, 523.9575pt x 397.485pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-2-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-sub20-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-2-e
+ps-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 106.84323pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-3.eps>
+(epstopdf)                    date: 2011-02-21 22:55:18
+(epstopdf)                    size: 285110 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-3-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-sub20-3-eps-converted-to.pdf ./images/bv-steps/bv-steps-roug
+h4-contrast30-sub20-3.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-sub2
+0-3-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-sub20-3.e
+ps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-3-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:00
+(epstopdf)                    size: 20905 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-sub20-3-eps-converted-to.pdf, id=
+133, 523.9575pt x 398.48875pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-3-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-sub20-3-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-3-e
+ps-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 107.11304pt.
+Package epstopdf Info: Source file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-4.eps>
+(epstopdf)                    date: 2011-02-21 22:55:06
+(epstopdf)                    size: 287119 bytes
+(epstopdf)             Output file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-4-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/bv-steps/bv-steps
+-rough4-contrast30-sub20-4-eps-converted-to.pdf ./images/bv-steps/bv-steps-roug
+h4-contrast30-sub20-4.eps>
+(epstopdf)             \includegraphics on input line 1447.
+runsystem(repstopdf --outfile=./images/bv-steps/bv-steps-rough4-contrast30-sub2
+0-4-eps-converted-to.pdf ./images/bv-steps/bv-steps-rough4-contrast30-sub20-4.e
+ps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/bv-steps/bv-steps-rough4-contrast
+30-sub20-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:00
+(epstopdf)                    size: 22988 bytes.
+
+<./images/bv-steps/bv-steps-rough4-contrast30-sub20-4-eps-converted-to.pdf, id=
+134, 523.9575pt x 397.485pt>
+File: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-4-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use ./images/bv-steps/bv-steps-rough4-contrast30-sub20-4-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bv-steps/bv-steps-rough4-contrast30-sub20-4-e
+ps-converted-to.pdf used on input line 1447.
+(pdftex.def)             Requested size: 140.84256pt x 106.84323pt.
+[30]
+Package epstopdf Info: Source file: <./images/steps-varying-error/steps-varying
+-cpxity10-error-log.eps>
+(epstopdf)                    date: 2011-02-21 22:58:01
+(epstopdf)                    size: 351428 bytes
+(epstopdf)             Output file: <./images/steps-varying-error/steps-varying
+-cpxity10-error-log-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/steps-varying-err
+or/steps-varying-cpxity10-error-log-eps-converted-to.pdf ./images/steps-varying
+-error/steps-varying-cpxity10-error-log.eps>
+(epstopdf)             \includegraphics on input line 1464.
+runsystem(repstopdf --outfile=./images/steps-varying-error/steps-varying-cpxity
+10-error-log-eps-converted-to.pdf ./images/steps-varying-error/steps-varying-cp
+xity10-error-log.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/steps-varying-error/steps-varying
+-cpxity10-error-log-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:01
+(epstopdf)                    size: 38639 bytes.
+
+<./images/steps-varying-error/steps-varying-cpxity10-error-log-eps-converted-to
+.pdf, id=138, 560.0925pt x 451.6875pt>
+File: ./images/steps-varying-error/steps-varying-cpxity10-error-log-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use ./images/steps-varying-error/steps-varying-cpxity10-error-log-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ./images/steps-varying-error/steps-varying-cpxity10-er
+ror-log-eps-converted-to.pdf used on input line 1464.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/steps-varying-error/steps-varying
+-cpxity20-error-log.eps>
+(epstopdf)                    date: 2011-02-21 22:58:48
+(epstopdf)                    size: 351471 bytes
+(epstopdf)             Output file: <./images/steps-varying-error/steps-varying
+-cpxity20-error-log-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/steps-varying-err
+or/steps-varying-cpxity20-error-log-eps-converted-to.pdf ./images/steps-varying
+-error/steps-varying-cpxity20-error-log.eps>
+(epstopdf)             \includegraphics on input line 1464.
+runsystem(repstopdf --outfile=./images/steps-varying-error/steps-varying-cpxity
+20-error-log-eps-converted-to.pdf ./images/steps-varying-error/steps-varying-cp
+xity20-error-log.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/steps-varying-error/steps-varying
+-cpxity20-error-log-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:01
+(epstopdf)                    size: 38573 bytes.
+
+<./images/steps-varying-error/steps-varying-cpxity20-error-log-eps-converted-to
+.pdf, id=139, 560.0925pt x 451.6875pt>
+File: ./images/steps-varying-error/steps-varying-cpxity20-error-log-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use ./images/steps-varying-error/steps-varying-cpxity20-error-log-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ./images/steps-varying-error/steps-varying-cpxity20-er
+ror-log-eps-converted-to.pdf used on input line 1464.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/steps-varying-error/steps-varying
+-cpxity40-error-log.eps>
+(epstopdf)                    date: 2011-02-21 22:58:31
+(epstopdf)                    size: 348829 bytes
+(epstopdf)             Output file: <./images/steps-varying-error/steps-varying
+-cpxity40-error-log-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/steps-varying-err
+or/steps-varying-cpxity40-error-log-eps-converted-to.pdf ./images/steps-varying
+-error/steps-varying-cpxity40-error-log.eps>
+(epstopdf)             \includegraphics on input line 1464.
+runsystem(repstopdf --outfile=./images/steps-varying-error/steps-varying-cpxity
+40-error-log-eps-converted-to.pdf ./images/steps-varying-error/steps-varying-cp
+xity40-error-log.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/steps-varying-error/steps-varying
+-cpxity40-error-log-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:02
+(epstopdf)                    size: 36934 bytes.
+
+<./images/steps-varying-error/steps-varying-cpxity40-error-log-eps-converted-to
+.pdf, id=140, 560.0925pt x 451.6875pt>
+File: ./images/steps-varying-error/steps-varying-cpxity40-error-log-eps-convert
+ed-to.pdf Graphic file (type pdf)
+
+<use ./images/steps-varying-error/steps-varying-cpxity40-error-log-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ./images/steps-varying-error/steps-varying-cpxity40-er
+ror-log-eps-converted-to.pdf used on input line 1464.
+(pdftex.def)             Requested size: 154.9261pt x 124.94156pt.
+Package epstopdf Info: Source file: <./images/steps-varying-error/steps-varying
+-all-error.eps>
+(epstopdf)                    date: 2011-02-21 23:01:24
+(epstopdf)                    size: 714723 bytes
+(epstopdf)             Output file: <./images/steps-varying-error/steps-varying
+-all-error-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/steps-varying-err
+or/steps-varying-all-error-eps-converted-to.pdf ./images/steps-varying-error/st
+eps-varying-all-error.eps>
+(epstopdf)             \includegraphics on input line 1464.
+runsystem(repstopdf --outfile=./images/steps-varying-error/steps-varying-all-er
+ror-eps-converted-to.pdf ./images/steps-varying-error/steps-varying-all-error.e
+ps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/steps-varying-error/steps-varying
+-all-error-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:02
+(epstopdf)                    size: 30046 bytes.
+
+<./images/steps-varying-error/steps-varying-all-error-eps-converted-to.pdf, id=
+141, 562.1pt x 455.7025pt>
+File: ./images/steps-varying-error/steps-varying-all-error-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use ./images/steps-varying-error/steps-varying-all-error-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/steps-varying-error/steps-varying-all-error-e
+ps-converted-to.pdf used on input line 1464.
+(pdftex.def)             Requested size: 187.78531pt x 152.23885pt.
+
+Overfull \hbox (4.46455pt too wide) in paragraph at lines 1464--1464
+ [] 
+ []
+
+[31 <./images/sin-error/sin-cpxity10-error-log-eps-converted-to.pdf> <./images/
+sin-error/sin-cpxity20-error-log-eps-converted-to.pdf> <./images/sin-error/sin-
+cpxity40-error-log-eps-converted-to.pdf> <./images/sin-error/sin-all-error-eps-
+converted-to.pdf>] [32 <./images/bv-steps/bv-steps-speed-eps-converted-to.pdf> 
+<./images/bv-steps/bv-steps-error-log-eps-converted-to.pdf> <./images/bv-steps/
+bv-steps-rough4-contrast30-true-2-eps-converted-to.pdf> <./images/bv-steps/bv-s
+teps-rough4-contrast30-true-3-eps-converted-to.pdf> <./images/bv-steps/bv-steps
+-rough4-contrast30-true-4-eps-converted-to.pdf> <./images/bv-steps/bv-steps-rou
+gh4-contrast30-sub20-2-eps-converted-to.pdf> <./images/bv-steps/bv-steps-rough4
+-contrast30-sub20-3-eps-converted-to.pdf> <./images/bv-steps/bv-steps-rough4-co
+ntrast30-sub20-4-eps-converted-to.pdf>] [33 <./images/steps-varying-error/steps
+-varying-cpxity10-error-log-eps-converted-to.pdf> <./images/steps-varying-error
+/steps-varying-cpxity20-error-log-eps-converted-to.pdf> <./images/steps-varying
+-error/steps-varying-cpxity40-error-log-eps-converted-to.pdf> <./images/steps-v
+arying-error/steps-varying-all-error-eps-converted-to.pdf>] [34]
+Package epstopdf Info: Source file: <./images/rtm/twodiracs-rtm-speed-c.eps>
+(epstopdf)                    date: 2011-02-21 23:10:43
+(epstopdf)                    size: 268657 bytes
+(epstopdf)             Output file: <./images/rtm/twodiracs-rtm-speed-c-eps-con
+verted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/rtm/twodiracs-rtm
+-speed-c-eps-converted-to.pdf ./images/rtm/twodiracs-rtm-speed-c.eps>
+(epstopdf)             \includegraphics on input line 1573.
+runsystem(repstopdf --outfile=./images/rtm/twodiracs-rtm-speed-c-eps-converted-
+to.pdf ./images/rtm/twodiracs-rtm-speed-c.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/rtm/twodiracs-rtm-speed-c-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:03
+(epstopdf)                    size: 20618 bytes.
+
+<./images/rtm/twodiracs-rtm-speed-c-eps-converted-to.pdf, id=298, 450.68375pt x
+ 532.99126pt>
+File: ./images/rtm/twodiracs-rtm-speed-c-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ./images/rtm/twodiracs-rtm-speed-c-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/rtm/twodiracs-rtm-speed-c-eps-converted-to.pd
+f used on input line 1573.
+(pdftex.def)             Requested size: 164.31595pt x 117.36417pt.
+Package epstopdf Info: Source file: <./images/rtm/twodiracs-rtm-reflec-wave.eps
+>
+(epstopdf)                    date: 2011-02-21 23:14:13
+(epstopdf)                    size: 263678 bytes
+(epstopdf)             Output file: <./images/rtm/twodiracs-rtm-reflec-wave-eps
+-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/rtm/twodiracs-rtm
+-reflec-wave-eps-converted-to.pdf ./images/rtm/twodiracs-rtm-reflec-wave.eps>
+(epstopdf)             \includegraphics on input line 1573.
+runsystem(repstopdf --outfile=./images/rtm/twodiracs-rtm-reflec-wave-eps-conver
+ted-to.pdf ./images/rtm/twodiracs-rtm-reflec-wave.eps)...executed safely (allow
+ed).
+
+Package epstopdf Info: Result file: <./images/rtm/twodiracs-rtm-reflec-wave-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:03
+(epstopdf)                    size: 17098 bytes.
+
+<./images/rtm/twodiracs-rtm-reflec-wave-eps-converted-to.pdf, id=299, 478.78876
+pt x 501.875pt>
+File: ./images/rtm/twodiracs-rtm-reflec-wave-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use ./images/rtm/twodiracs-rtm-reflec-wave-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/rtm/twodiracs-rtm-reflec-wave-eps-converted-t
+o.pdf used on input line 1573.
+(pdftex.def)             Requested size: 164.31291pt x 117.36629pt.
+Package epstopdf Info: Source file: <./images/rtm/twodiracs-rtm-residual-zoom.e
+ps>
+(epstopdf)                    date: 2011-02-21 23:16:45
+(epstopdf)                    size: 243523 bytes
+(epstopdf)             Output file: <./images/rtm/twodiracs-rtm-residual-zoom-e
+ps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/rtm/twodiracs-rtm
+-residual-zoom-eps-converted-to.pdf ./images/rtm/twodiracs-rtm-residual-zoom.ep
+s>
+(epstopdf)             \includegraphics on input line 1573.
+runsystem(repstopdf --outfile=./images/rtm/twodiracs-rtm-residual-zoom-eps-conv
+erted-to.pdf ./images/rtm/twodiracs-rtm-residual-zoom.eps)...executed safely (a
+llowed).
+
+Package epstopdf Info: Result file: <./images/rtm/twodiracs-rtm-residual-zoom-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:03
+(epstopdf)                    size: 14949 bytes.
+
+<./images/rtm/twodiracs-rtm-residual-zoom-eps-converted-to.pdf, id=300, 456.706
+25pt x 498.86375pt>
+File: ./images/rtm/twodiracs-rtm-residual-zoom-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use ./images/rtm/twodiracs-rtm-residual-zoom-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/rtm/twodiracs-rtm-residual-zoom-eps-converted
+-to.pdf used on input line 1573.
+(pdftex.def)             Requested size: 164.31656pt x 117.3624pt.
+Package epstopdf Info: Source file: <./images/rtm/twodiracs-rtm-zoom.eps>
+(epstopdf)                    date: 2011-02-21 23:19:29
+(epstopdf)                    size: 246051 bytes
+(epstopdf)             Output file: <./images/rtm/twodiracs-rtm-zoom-eps-conver
+ted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/rtm/twodiracs-rtm
+-zoom-eps-converted-to.pdf ./images/rtm/twodiracs-rtm-zoom.eps>
+(epstopdf)             \includegraphics on input line 1573.
+runsystem(repstopdf --outfile=./images/rtm/twodiracs-rtm-zoom-eps-converted-to.
+pdf ./images/rtm/twodiracs-rtm-zoom.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/rtm/twodiracs-rtm-zoom-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:04
+(epstopdf)                    size: 16195 bytes.
+
+<./images/rtm/twodiracs-rtm-zoom-eps-converted-to.pdf, id=301, 477.785pt x 509.
+905pt>
+File: ./images/rtm/twodiracs-rtm-zoom-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./images/rtm/twodiracs-rtm-zoom-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/rtm/twodiracs-rtm-zoom-eps-converted-to.pdf u
+sed on input line 1573.
+(pdftex.def)             Requested size: 164.31837pt x 117.36127pt.
+Package epstopdf Info: Source file: <./images/rtm/twodiracs-rtm-error-log.eps>
+(epstopdf)                    date: 2011-02-21 23:05:17
+(epstopdf)                    size: 364707 bytes
+(epstopdf)             Output file: <./images/rtm/twodiracs-rtm-error-log-eps-c
+onverted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./images/rtm/twodiracs-rtm
+-error-log-eps-converted-to.pdf ./images/rtm/twodiracs-rtm-error-log.eps>
+(epstopdf)             \includegraphics on input line 1573.
+runsystem(repstopdf --outfile=./images/rtm/twodiracs-rtm-error-log-eps-converte
+d-to.pdf ./images/rtm/twodiracs-rtm-error-log.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./images/rtm/twodiracs-rtm-error-log-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:18:04
+(epstopdf)                    size: 39829 bytes.
+
+<./images/rtm/twodiracs-rtm-error-log-eps-converted-to.pdf, id=302, 552.0625pt 
+x 457.71pt>
+File: ./images/rtm/twodiracs-rtm-error-log-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use ./images/rtm/twodiracs-rtm-error-log-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/rtm/twodiracs-rtm-error-log-eps-converted-to.
+pdf used on input line 1573.
+(pdftex.def)             Requested size: 187.78531pt x 155.68918pt.
+
+[35] [36 <./images/rtm/twodiracs-rtm-speed-c-eps-converted-to.pdf> <./images/rt
+m/twodiracs-rtm-reflec-wave-eps-converted-to.pdf> <./images/rtm/twodiracs-rtm-r
+esidual-zoom-eps-converted-to.pdf> <./images/rtm/twodiracs-rtm-zoom-eps-convert
+ed-to.pdf> <./images/rtm/twodiracs-rtm-error-log-eps-converted-to.pdf>]
+[37] [38] [39] (./cwc-revised.bbl [40] [41] [42]) [43] (./cwc-revised.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3403 strings out of 493014
+ 48132 string characters out of 6133351
+ 109835 words of memory out of 5000000
+ 6816 multiletter control sequences out of 15000+600000
+ 24075 words of font info for 95 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,26p,1214b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on cwc-revised.pdf (43 pages, 1013293 bytes).
+PDF statistics:
+ 470 PDF objects out of 1000 (max. 8388607)
+ 329 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
